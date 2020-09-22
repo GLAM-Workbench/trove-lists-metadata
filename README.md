@@ -1,6 +1,8 @@
 # Trove lists metadata
 
-Current version: [v1.0](https://github.com/GLAM-Workbench/trove-lists-metadata/releases/tag/v1.0)
+[![Frictionless](https://github.com/GLAM-Workbench/trove-lists-metadata/actions/workflows/frictionless.yaml/badge.svg)](https://repository.frictionlessdata.io/report?user=GLAM-Workbench&repo=trove-lists-metadata&flow=frictionless) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6827077.svg)](https://doi.org/10.5281/zenodo.6827077)
+
+Current version: [v1.1](https://github.com/GLAM-Workbench/trove-lists-metadata/releases/tag/v1.1)
 
 Trove users can create collections of resources using Trove's 'lists'. Metadata describing public lists is available via the Trove API. This dataset was created by harvesting this metadata. To reduce file size, the details of the resources collected by each list are not included, just the total number of resources.
 

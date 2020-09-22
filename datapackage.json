@@ -8,29 +8,29 @@
       "format": "csv",
       "hashing": "md5",
       "stats": {
-        "hash": "db60e2f5d050e38485d1083c7069ea7d",
-        "bytes": 5724173,
+        "hash": "2024f586bb8ec4de3266b64465690ca7",
+        "bytes": 6897072,
         "fields": 5,
-        "rows": 79294
+        "rows": 95358
       },
       "encoding": "utf-8",
       "schema": {
         "fields": [
           {
-            "type": "datetime",
-            "name": "created"
-          },
-          {
             "type": "integer",
             "name": "id"
+          },
+          {
+            "type": "string",
+            "name": "title"
           },
           {
             "type": "integer",
             "name": "number_items"
           },
           {
-            "type": "string",
-            "name": "title"
+            "type": "datetime",
+            "name": "created"
           },
           {
             "type": "datetime",
