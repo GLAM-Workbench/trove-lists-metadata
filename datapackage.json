@@ -8,10 +8,10 @@
       "format": "csv",
       "hashing": "md5",
       "stats": {
-        "hash": "2024f586bb8ec4de3266b64465690ca7",
-        "bytes": 6897072,
+        "hash": "31d98f5cbe9dd18db27f498f8129a561",
+        "bytes": 7475486,
         "fields": 5,
-        "rows": 95358
+        "rows": 103207
       },
       "encoding": "utf-8",
       "schema": {
